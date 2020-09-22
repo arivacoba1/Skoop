@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import SchoolLift
+@testable import Pods_Skoop
 
 class SchoolLiftTests: XCTestCase {
     
